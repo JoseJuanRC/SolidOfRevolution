@@ -27,7 +27,7 @@ Este proyecto tiene como objetivo desarrollar un programa para que un usuario pu
 ## Resultado final
 A continuación se ve un ejemplo de la aplicación:
 
-![](resultado.gif)
+![](ejemplo.gif)
 
 ## Herramientas utilizadas
 - [Editar el readme.md](https://dillinger.io/)
